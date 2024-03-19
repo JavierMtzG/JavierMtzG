@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierMtzG&show_icons=true&theme=theme_name)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierMtzG&show_icons=true&theme=cobalt)
 
 <h1 align="center">Hi 👋, I'm @JavierMtzG</h1>
 <h3 align="center">A telecommunications engineer from madrid</h3>
