@@ -1,5 +1,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JavierMtzG&show_icons=true&theme=theme_name)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavierMtzG)](https://github.com/JavierMtzG/github-readme-stats)
+
 <h1 align="center">Hi 👋, I'm @JavierMtzG</h1>
 <h3 align="center">A telecommunications engineer from madrid</h3>
 
