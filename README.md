@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 💬 Ask me about **C,C++,Python...**
+- 💬 Ask me about **C, C++, Python...**
 
 - 📫 How to reach me **javier.mgarcia29@gmail.com**
 
